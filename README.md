@@ -1,6 +1,4 @@
-theme: SCI-90心理健康测评
-title: SCI-90心理健康测评
-description: 仅供参考
+SCI-90心理健康测评
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
